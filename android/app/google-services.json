@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "685440843736",
+    "project_id": "saloon-app-57bb4",
+    "storage_bucket": "saloon-app-57bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685440843736:android:88977b06dd064c2246fcad",
+        "android_client_info": {
+          "package_name": "com.example.customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685440843736-63pgkkmqlhepdbe3ad47g0mpkm4nbts3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgJYuzqixB_cZKajZxIKWDysJoX6B_tlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685440843736-63pgkkmqlhepdbe3ad47g0mpkm4nbts3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685440843736:android:7685d1c0ad24164b46fcad",
+        "android_client_info": {
+          "package_name": "com.example.saloon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685440843736-dqanaanfbelp6v3uh0uuckfm2nlbg2nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saloon_app",
+            "certificate_hash": "c407b745dc95b3019071be230d00999c3a89d5e8"
+          }
+        },
+        {
+          "client_id": "685440843736-63pgkkmqlhepdbe3ad47g0mpkm4nbts3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgJYuzqixB_cZKajZxIKWDysJoX6B_tlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685440843736-63pgkkmqlhepdbe3ad47g0mpkm4nbts3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
